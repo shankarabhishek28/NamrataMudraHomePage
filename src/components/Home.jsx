@@ -10,7 +10,7 @@ import PER from '../Images/PER.png'
 
 
 
-import Video from '../Images/loan1.mp4'
+import Video from '../Images/Loan1.mp4'
 import '../components/Home.css'
 import Card from './Card'
 import CreditScore from '../Images/creditScore.jpg'
