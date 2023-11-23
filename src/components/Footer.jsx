@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer.css'
-import NM from '../Images/nm.png'
+import NM from '../Images/Nm.png'
 import { FaPhone } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
 import { IoLogoWhatsapp } from "react-icons/io";
